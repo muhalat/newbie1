@@ -24,7 +24,7 @@
     .body{
       padding: 10px;
     }
-    .img{ background: url("image-header-desktop.jpg");
+    .img{ background: src("image-header-desktop.jpg");
         border-radius:0px 5px 5px 0px;}
     
     .img{
@@ -70,7 +70,7 @@
   height:40px;
   font-size: 18px;
    text-align: center;
-   background-color:hsl(277,64%,61%);;
+   background-color:hsl(277,64%,61%);
    opacity: 50%; 
    grid-template-columns: auto;
    width: 400px;
