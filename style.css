@@ -24,7 +24,7 @@
     .body{
       padding: 10px;
     }
-    .img{ background: url("./images/image-header-desktop.jpg");
+    .img{ background: url("image-header-desktop.jpg");
         border-radius:0px 5px 5px 0px;}
     
     .img{
